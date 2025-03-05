@@ -38,5 +38,5 @@ print("The average of the given two numbers are: ",avg)
 
 '''Q7> Print the square of a number given by the user'''
 a = int(input("Enter the number whose square you wanna see: "))
-sq = a ** 2
+sq = a ** 2                                                      #if you a^a then replace 2 with a i.e a**a
 print("The  square of the number is: ",sq)
