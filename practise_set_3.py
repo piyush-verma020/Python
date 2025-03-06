@@ -37,4 +37,4 @@ print(string.strip())                   #strip is not valid cause it cannot dete
         Letter = "Dear NAME, this python program is nice. Thanks!"'''
 
 name = input("Enter your name: ")
-print("Dear ", name, "\b,\n\tThis python program is nice. Thanks!")  #You can use this or you can just use the f string same as in the previous question 
+print("Dear ", name, "\b,\n\tThis python program is nice.\n\tThanks!")  #You can use this or you can just use the f string same as in the previous question 
