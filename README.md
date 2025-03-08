@@ -2,7 +2,7 @@
 
 
 In this reposiroty there are some practice set questions alog with it's solution.
-In this practice set we are going to practice some prohrams in python chapter wise.
+In this practice set we are going to practice some programs in python chapter wise.
 
 
 PRACTICE SET 1: MODULES, COMMENT AND PIP
