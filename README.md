@@ -63,3 +63,29 @@ Q4> Write a program to sum a list with 4 numbers. With or without using loops.
 
 Q5> Write a program to count the number of zeros in the following tuple: 
     a = (7,0,8,0,0,9)
+
+PRACTICE SET 5: DICTIONARY AND SETS
+
+Q1> Write a program to create a dictionary of Hindi words with values of their English translation. Provide user with an option to look it up.
+
+Q2> Write a prorgam to input 8 numbers from the user and display all the unique numbers(once).
+
+Q3> Can we have set with 18(int) and '18'(str) as a value in it.
+
+Q4> What will the length of the following set s:
+    s = set()
+    s.add(20)
+    s.add(20.0)
+    s.add('20") #lengeth of s after these operations?
+
+Q5> s = {}
+    What is the type of 's'?
+
+Q6> Create an empty dictionary. Allow 4 friends to enter their favourite languages as their values and use key as their names. Assume their names are unique.
+
+Q7> If the names of two friends are same; What will happen to python program in problem 6?
+
+Q8> If languages of 2 friends are same: What will happen to python program in problem 6?
+
+Q9> Cam you change the values inside a list which is contained in set s?
+    s = {8, 7, "Python", [1, 2]}
