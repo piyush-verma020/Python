@@ -32,9 +32,9 @@ print(f"The numbbers you have given but only unique number can be printed{s}")
 
 '''Q3> Can we have set with 18(int) and '18'(str) as a value in it.'''
     # # Yes you can have set along integer along with a string values eg-
-    # set = {18, "18", "yes you can", 4,5}
-    # print(type(set))
-    # print(set)
+     set = {18, "18", "yes you can", 4,5}
+     print(type(set))
+     print(set)
 
 '''Q4> What will the length of the following set s:
     s = set()
