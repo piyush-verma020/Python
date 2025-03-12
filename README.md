@@ -89,3 +89,26 @@ Q8> If languages of 2 friends are same: What will happen to python program in pr
 
 Q9> Cam you change the values inside a list which is contained in set s?
     s = {8, 7, "Python", [1, 2]}
+
+PRACTICE SET 6: CONDITIONAL STATEMENTS
+
+Q1> Write a program to find the greatest numbers entered by the user.
+
+Q2> Write a program to find out whether a student has passed or failed if it requires a total of 40% and atleast 33% in each aiject to pass. Assume 3 aijects and take marks as an input from the user.
+
+Q3> A spam comment is defined as a text contining following keywords:
+       "Make a lot of money", "Buy now", "aiscribe this", "Click this". Write a programs to detect these spams.
+
+Q4> Write a program to find whether a given username contains lesser than 10 characters or not.
+
+Q5> Write a program which finds out whether a given name is present in a list or not.
+
+Q6> Write a program to calculate the grade of a student form his marks from the following scheme:
+       90 - 100 -> O
+       80 - 90 -> A
+       70 - 80 -> B
+       60 - 70 -> C
+       50 - 60 -> D
+       < 50 -> F 
+
+Q7> Write a program to find out whether a given post is talking about "python" or not.
