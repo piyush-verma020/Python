@@ -112,3 +112,35 @@ Q6> Write a program to calculate the grade of a student form his marks from the 
        < 50 -> F 
 
 Q7> Write a program to find out whether a given post is talking about "python" or not.
+
+PRACTISE SET 7: LOOPS IN PYTHON
+
+'Q1> Write a program to print multiplication table of a given number using for loop.
+
+Q2> Write a program to greet all the persons name given in the list "l" and which starts with S.
+       l = ["Hary", "Soham", "Sachin", "Rahul"]
+
+Q3> Attempt problem 1 using while loop.
+
+Q4> Write a program to find whether the given number is prime number or not.
+
+Q5> Write a program to find the sum of first n natural numbers using while loop.
+
+Q6> Write a program to print the factorial of a given number using for loop.
+
+Q7> Write a program to print the following star pattern.
+      *
+     ***
+    *****     for n = 3
+
+Q8> Write a program to print the following star pattern.
+       *
+       **
+       ***      for n = 3
+
+Q9> Write a program to print the following star pattern.
+       * * *
+       *   *
+       * * *    for n = 3
+
+Q10> Write a program to print the multiplication of n using for loops but in reversed order.
