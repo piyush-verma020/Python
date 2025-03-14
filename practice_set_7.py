@@ -109,3 +109,8 @@ print("End of program")
 for i in range(10,0-1,-1):
     print(f"{number} * {i} = {number * i}")
 print("End of the program")
+
+#Another method
+for i in range(1,11):
+    print(f"{number} * {11-i} = {number *(11-i)}")
+print("End of program")
