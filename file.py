@@ -24,3 +24,10 @@ f.close()
 with open("myfile.txt") as fi:
     print(fi.read())
 #same can be done for appending and writing into a file
+
+#syntax for printing a single line one at a time with a return type as string
+with open("myfile.txt") as re:
+    line = re.readline()
+    while(line != ""):            #this condition will print all the lines one by one until it finds nothing 
+        print(line)
+        re.readline()
